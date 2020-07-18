@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 I'm Maliha, a developer.
 
-<!--
-**malihanan/malihanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Let's Connect! 
+<a href=https://www.linkedin.com/in/malihanan/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href=https://twitter.com/mia9059 > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+<a href=https://www.instagram.com/mia9059/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href=https://medium.com/@malihanan/ > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<br><br>
 
-Here are some ideas to get you started:
+#### <h4>About Me:</h4> 
+I am a student who is passionate about learning and creating solutions. I have worked with web, mobile and a bit in NLP. I am currently exploring many horizons. :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+
+ - B.Tech | Dharmsinh Desai University, Nadiad <br>
+   <small>July 2017 - May 2021</small>
+   
+### Skills
+
+`#python` `#flutter` `#web-development` `#software-development`
+
+### Memberships
+
+<ul><li>Microsoft Student Partner</li> <li>Android Team Member | DSC DDU</li></ul>
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=malihanan)
