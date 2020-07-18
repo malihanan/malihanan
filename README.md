@@ -7,7 +7,7 @@
 <a href=https://medium.com/@malihanan/ > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 <br><br>
 
-### <h4>About Me:</h4> 
+### About Me
 I am a student who is passionate about learning and creating solutions. I have worked with web, mobile and a bit in NLP. I am currently exploring many horizons. :)
 
 ### Education
