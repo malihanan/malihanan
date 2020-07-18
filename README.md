@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Maliha, a developer.
+### Hi there! I'm Maliha, a developer.
 
 #### Let's Connect! 
 <a href=https://www.linkedin.com/in/malihanan/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
@@ -7,7 +7,7 @@
 <a href=https://medium.com/@malihanan/ > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 <br><br>
 
-#### <h4>About Me:</h4> 
+### <h4>About Me:</h4> 
 I am a student who is passionate about learning and creating solutions. I have worked with web, mobile and a bit in NLP. I am currently exploring many horizons. :)
 
 ### Education
@@ -24,3 +24,5 @@ I am a student who is passionate about learning and creating solutions. I have w
 <ul><li>Microsoft Student Partner</li> <li>Android Team Member | DSC DDU</li></ul>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=malihanan)
+
+[Developed By Devanshu ♥️](http://gitread.me/#/)
