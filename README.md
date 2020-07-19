@@ -22,7 +22,7 @@ const maliha = {
                         team-member: "DSC DDU",
                         member: "Microsoft Student Partners"
                    },
- about: "I am a student who is passionate about learning and creating solutions.\n
+  about: "I am a student who is passionate about learning and creating solutions.\n
          I have worked with web, mobile and a bit in NLP.\n
          I am currently exploring many horizons. :)"
 }
