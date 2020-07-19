@@ -13,11 +13,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const maliha = {
+var maliha = {
   pronouns: "she" | "her",
   code: [Python, Java, C, C#, Dart, HTML, CSS, Javascript],
-  tools: [Flutter, Django, Angular, .Net, Azure],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [Git, Azure],
+  frameworks: [Flutter, Django, Angular, .Net],
   techCommunities: {
                         team-member: "DSC DDU",
                         member: "Microsoft Student Partners"
