@@ -23,8 +23,8 @@ const maliha = {
                         member: "Microsoft Student Partners"
                    },
   about: "I am a student who is passionate about learning and creating solutions.\n
-         I have worked with web, mobile and a bit in NLP.\n
-         I am currently exploring many horizons. :)"
+          I have worked with web, mobile and a bit in NLP.\n
+          I am currently exploring many horizons. :)"
 }
 ```
 ### My Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40">
