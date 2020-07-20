@@ -1,12 +1,12 @@
 <h2> Hi, I'm Maliha Nan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="24%">
 <p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Android Team Member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>A Microsoft Student Partner <a href="http://mspddu.com/">mspddu.com</a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="26">
 </em></p>
 
 [![Twitter: mia9059](https://img.shields.io/twitter/follow/mia9059?style=social)](https://twitter.com/mia9059)
 [![Linkedin: malihanan](https://img.shields.io/badge/-malihanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/malihanan/)
 [![GitHub malihanan](https://img.shields.io/github/followers/malihanan?label=follow&style=social)](https://github.com/malihanan/)
-[![Medium @malihanan](https://img.shields.io/badge/@mia9059-black?style=flat&logo=medium)](https://medium.com/@malihanan/)
+[![Medium @malihanan](https://img.shields.io/badge/@malihanan-black?style=flat&logo=medium)](https://medium.com/@malihanan/)
 [![Instagram @malihanan](https://img.shields.io/badge/@mia9059-833AB4?style=flat&logo=instagram)](https://www.instagram.com/mia9059/)
 
 
