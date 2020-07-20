@@ -27,7 +27,7 @@ var maliha = {
           I am currently exploring many horizons. :)"
 }
 ```
-### My Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40">
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=malihanan&show_icons=true&hide_border=true)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
