@@ -1,6 +1,6 @@
 <h2> Hi, I'm Maliha Nan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="24%">
-<p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Android Team Member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>A Microsoft Student Partner <a href="http://mspddu.com/">mspddu.com</a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="26">
+<p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Android Team Member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>A Microsoft Learn Student Ambassador <a href="https://www.mlsaddu.com/">mlsaddu.com</a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="26">
 </em></p>
 
 [![Twitter: mia9059](https://img.shields.io/twitter/follow/mia9059?style=social)](https://twitter.com/mia9059)
