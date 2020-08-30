@@ -1,6 +1,6 @@
 <h2> Hi, I'm Maliha Nan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="24%">
-<p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Android Team Member at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>A Microsoft Learn Student Ambassador <a href="https://www.mlsaddu.com/">mlsaddu.com</a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="26">
+<p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Core Team Member & Head of Mobile Development Team at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>A Beta Microsoft Learn Student Ambassador <a href="https://www.mlsaddu.com/">mlsaddu.com</a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="26">
 </em></p>
 
 [![Twitter: mia9059](https://img.shields.io/twitter/follow/mia9059?style=social)](https://twitter.com/mia9059)
@@ -19,8 +19,9 @@ var maliha = {
   tools: [Git, Azure],
   frameworks: [Flutter, Django, Angular, .Net],
   techCommunities: {
-                        team-member: "DSC DDU",
-                        member: "Microsoft Student Partners"
+                        core-team-member: "DSC DDU",
+                        team-head: "Mobile Development Team, DSC DDU",
+                        member: "Microsoft Learn Student Ambassadors"
                    },
   about: "I am a student who is passionate about learning and creating solutions.\n
           I have worked with web, mobile and a bit in NLP.\n
