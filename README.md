@@ -17,13 +17,13 @@ var maliha = {
   pronouns: "she" | "her",
   code: [Python, Java, C, C#, Dart, HTML, CSS, Javascript],
   tools: [Git, Azure],
-  frameworks: [Flutter, Django, Angular, .Net],
+  frameworks: [Spring Boot, Flutter, Django, Angular, .Net],
   techCommunities: {
                         core-team-member: "DSC DDU",
                         team-head: "Mobile Development Team, DSC DDU",
                         member: "Microsoft Learn Student Ambassadors"
                    },
-  about: "I am a student who is passionate about learning and creating solutions.\n
+  about: "I am a computer science undergrad who is passionate about learning and creating solutions.\n
           I have worked with web, mobile and a bit in NLP.\n
           I am currently exploring many horizons. :)"
 }
