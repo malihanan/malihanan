@@ -1,13 +1,16 @@
 <h2> Hi, I'm Maliha Nan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="24%">
-<p><em>Student at <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Core Team Member & Head of Mobile Development Team at <a href="https://www.dscddu.com/">DSC DDU</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>A Beta Microsoft Learn Student Ambassador <a href="https://www.mlsaddu.com/">mlsaddu.com</a><img src="https://media.giphy.com/media/kBrXyorjXo9Rh66RUf/giphy.gif" width="26">
-</em></p>
+<p>
+  <em>
+      Software Engineer @ Google <img src="https://media.giphy.com/media/yN4A8EMHt4lmkC6kwq/giphy.gif" height="30"/></br>
+  </em>
+</p>
 
-[![Twitter: mia9059](https://img.shields.io/twitter/follow/mia9059?style=social)](https://twitter.com/mia9059)
+[![Twitter: malihanan_](https://img.shields.io/twitter/follow/malihanan_?style=social)](https://twitter.com/malihanan_)
 [![Linkedin: malihanan](https://img.shields.io/badge/-malihanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/malihanan/)
 [![GitHub malihanan](https://img.shields.io/github/followers/malihanan?label=follow&style=social)](https://github.com/malihanan/)
 [![Medium @malihanan](https://img.shields.io/badge/@malihanan-black?style=flat&logo=medium)](https://medium.com/@malihanan/)
-[![Instagram @malihanan](https://img.shields.io/badge/@mia9059-833AB4?style=flat&logo=instagram)](https://www.instagram.com/mia9059/)
+[![Instagram @artbymaliha_](https://img.shields.io/badge/@artbymaliha_-833AB4?style=flat&logo=instagram)](https://www.instagram.com/artbymaliha_/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -15,17 +18,14 @@
 ```javascript
 var maliha = {
   pronouns: "she" | "her",
-  code: [Python, Java, C, C#, Dart, HTML, CSS, Javascript],
-  tools: [Git, Azure],
-  frameworks: [Spring Boot, Flutter, Django, Angular, .Net],
-  techCommunities: {
-                        core-team-member: "DSC DDU",
-                        team-head: "Mobile Development Team, DSC DDU",
-                        member: "Microsoft Learn Student Ambassadors"
-                   },
-  about: "I am a computer science undergrad who is passionate about learning and creating solutions.\n
-          I have worked with web, mobile and a bit in NLP.\n
-          I am currently exploring many horizons. :)"
+  code: [Python, Java, Go, Ruby, Typescript],
+  tools: [Kubernetes, Terraform, Nginx, Git],
+  about: "I am a software engineer at Google who is passionate about
+          learning and creating solutions.\n
+          I interned at BNY Mellon for 5 months before joining
+          Google as a fresh grad in 2021.\n
+          I graduated from Dharmsinh Desai University where I was a
+          part of many tech & non tech communities :)"
 }
 ```
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
